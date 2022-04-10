@@ -1,0 +1,22 @@
+.content{
+    text-align: center;
+    border: solid 2px black;
+    margin-top: 3vh;
+    margin-right: auto;
+    border-radius: 50%;
+    border-style: groove;
+    width: 50%;
+
+}
+
+.container{
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.weather{
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+
