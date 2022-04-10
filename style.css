@@ -1,6 +1,6 @@
 .content{
     text-align: center;
-    border: solid 2px black;
+    border: solid 4px black;
     margin-top: 3vh;
     margin-right: auto;
     border-radius: 50%;
@@ -9,6 +9,9 @@
 }
 
 .container{
+    background-color: aquamarine;
+    border: solid 2px black;
+    font-size:xx-large;
     justify-content: center;
     justify-content: space-around;
 }
