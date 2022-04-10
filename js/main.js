@@ -1,3 +1,4 @@
+
 const weatherKey = "4d57ac0fdfecdda18037489ee4ba6501"
 
 //Function to get city name from form, pass it to the API call, and fill global variable with data
